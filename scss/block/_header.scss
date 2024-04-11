@@ -1,0 +1,100 @@
+
+.site__home{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100px;
+}
+.home__list{
+  width: 692px;
+  height: 21.5px;
+  display: flex;
+  justify-content: space-between;
+  margin-right: 80px;
+  margin-bottom: 40px;
+}
+.home__img{
+  width: 177.55px;
+height: 86.23px;
+}
+.home__immg{
+  width: 23px;
+height: 20.95px;
+}
+.home__box{
+  width: 30px;
+  height: 30px;
+  display: none;
+}
+.home__fish{
+  width: 20.75px;
+  height: 20.75px;
+}
+.home__panja{
+  border: none;
+  font-family: arimo;
+  color:rgb(51,51,51);
+  font-size: 16px;
+  line-height: 21px;
+  width: 129.32px;
+  height: 26.19px;
+  margin-right: 64px;
+  padding-bottom: 30px;
+  text-align: right;
+  margin-bottom: 35px;
+}
+.home__panja{
+  background-image: url(../../img/pet.png);
+  background-repeat: no-repeat;
+}
+
+
+
+
+
+
+@media only screen and (max-width:1192px) {
+  .home__item{
+    max-width: 1092px;
+    justify-content: space-between;
+  }
+}
+@media only screen and (max-width:922px) {
+  .home__item{
+    max-width: 863px;
+  }
+}
+@media only screen and (max-width:863px) {
+  .home__item{
+    max-width:885px ;
+  }
+}
+@media only screen and (max-width:885px) {
+  .home__item{
+    max-width: 808px;
+  }
+}
+@media only screen and (max-width:808px) {
+  .home__item{
+    display: none;
+  }
+  .home__fish{
+    display: none;
+  }
+}
+@media only screen and (max-width:785px) {
+  .home__item{
+    max-width: 602px;
+  }
+  .home__main{
+    font-size: 16px;
+  }
+}
+@media only screen and (max-width:428px) {
+  .home__item{
+    max-width: 394px;
+  }
+  .home__main{
+    font-size: 14px;
+  }
+}
