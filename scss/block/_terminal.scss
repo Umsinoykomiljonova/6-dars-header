@@ -1,0 +1,46 @@
+.terminal__list{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 220px;
+  background-color: #F3F3F3;
+  margin-top: 80px;
+}
+.terminal__item{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.terminal__div{
+  margin-left: 25px;
+}
+.terminal__title{
+  color: rgb(51, 51, 51);
+font-family: Futura PT;
+font-size: 16px;
+font-weight: 500;
+line-height: 21px;
+}
+.terminal__tit{
+  color: rgb(51, 51, 51);
+font-family: Futura PT;
+font-size: 14px;
+font-weight: 500;
+line-height: 18px;
+}
+.terminal__img{
+  width: 158px;
+height: 76.74px;
+}
+.terminal__img1{
+  width: 16px;
+height: 16px;
+}
+.terminal__img2{
+  width: 16.84px;
+height: 16px;
+}
+.terminal__img3{
+  width: 16px;
+height: 16px;
+}

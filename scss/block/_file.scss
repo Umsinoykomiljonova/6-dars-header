@@ -1,0 +1,62 @@
+.file__item{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  max-width: 1360px;
+  height: 418px;
+  box-sizing: border-box;
+  border: 1px solid rgb(243, 243, 243);
+  border-radius: 5px;
+  padding: 55px;
+  background-color:#F9F9F9;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 30px;
+}
+.file__img{
+  max-width: 590px;
+  height: 332px;
+}
+.file__title{
+  color: rgb(51, 51, 51);
+font-family: Futura PT;
+font-size: 36px;
+font-weight: 500;
+line-height: 20px;
+letter-spacing: 0%;
+margin-bottom: 8px;
+}
+.file__text{
+  color: rgb(148, 148, 148);
+font-family: Futura PT;
+font-size: 16px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0%;
+margin-bottom: 8px;
+}
+.file__btn{
+  color: rgb(255, 255, 255);
+font-family: Futura PT;
+font-size: 16px;
+font-weight: 500;
+line-height: 21px;
+letter-spacing: 0%;
+border-radius: 3px;
+padding: 15px 36px;
+border: none;
+background: rgb(255, 189, 84);
+}
+.file__btn1{
+  color: rgb(255, 255, 255);
+font-family: Futura PT;
+font-size: 16px;
+font-weight: 500;
+line-height: 21px;
+letter-spacing: 0%;
+text-align: left;
+border-radius: 3px;
+padding: 16px 40px;
+border: none;
+background: rgb(51, 51, 51);
+}

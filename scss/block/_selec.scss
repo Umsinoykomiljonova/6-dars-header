@@ -1,0 +1,51 @@
+.section__selec{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #78C0DE;
+  max-width: 1360px;
+  height: 308px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 50px;
+}
+.selec__img{
+  max-width: 600px;
+height: 505px;
+}
+.selec__title{
+  color: rgb(255, 255, 255);
+font-family: Futura PT;
+font-size: 48px;
+font-weight: 700;
+line-height: 20px;
+letter-spacing: 0%;
+margin-bottom: 30px;
+margin-left: 60px;
+}
+.selec__btn{
+  color: rgb(148, 148, 148);
+font-family: Futura PT;
+font-size: 16px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0%;
+padding: 12px 60px;
+border: none;
+background: rgb(255, 255, 255);
+margin-left: 60px;
+}
+.selec__btn1{
+  color: rgb(255, 255, 255);
+font-family: Futura PT;
+font-size: 16px;
+font-weight: 500;
+line-height: 21px;
+letter-spacing: 0%;
+border-radius: 5px;
+border-radius: 3px;
+padding: 12px 40px;
+border: none;
+background: rgb(51, 51, 51);
+margin-left: 30px;
+}

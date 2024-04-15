@@ -1,0 +1,26 @@
+.run__title{
+  color: rgb(51, 51, 51);
+  font-family: Futura PT;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 54px;
+  letter-spacing: 0%;
+  text-align: center;
+  margin-bottom: 60px;
+  }
+  .run__div{
+    width: 51.79px;
+    height: 76.75px;
+  }
+  .run__item{
+    box-sizing: border-box;
+    border: 1px solid rgb(243, 243, 243);
+    border-radius: 5px;
+    padding: 55px;
+    background-color:#F9F9F9;
+  }
+  .run__list{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }

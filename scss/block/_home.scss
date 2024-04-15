@@ -1,0 +1,38 @@
+.home__text1{
+  color: rgb(148, 148, 148);
+font-family: Futura PT;
+font-size: 20px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+margin-bottom: 67px;
+}
+.home__tittle{
+  color: rgb(51, 51, 51);
+font-family: Futura PT;
+font-size: 20px;
+font-weight: 500;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+margin-bottom: 190px;
+}
+.home__section::before{
+  content: "";
+  width: 142px;
+height: 128px;
+background-image: url(../../img/tuttq.png);
+background-repeat: no-repeat;
+display: inline-block;
+margin-left: 260px;
+}
+.home__slec2::after{
+  content: "";
+  width: 148px;
+height: 78px;
+background-image: url(../../img/tutuq.png);
+background-repeat: no-repeat;
+display: inline-block;
+margin-left: 1100px;
+}
